@@ -1,0 +1,6 @@
+=== Task 1 health checks ===
+Tue Apr 21 12:46:00 EDT 2026
+
+{"status":"healthy","service":"registry-stub"}
+{"status":"healthy"}
+{"status":"healthy"}
